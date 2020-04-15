@@ -1,7 +1,3 @@
-      
-server:
-  port: 3355
-
 config:
   info: 'version 1'
 eureka:
