@@ -4,4 +4,4 @@ eureka:
       defaultZone: http://eureka7001.com:7001/eureka/
       
 server:
-  port: 3356
+  port: 3355
